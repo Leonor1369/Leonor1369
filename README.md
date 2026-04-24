@@ -26,7 +26,7 @@ Braga, Portugal · University of Minho · Computer science · 2nd year
 
 <h1 align="center">🤖 Linguagens </h1>
 
-<p align="center">
+<div align="center">
 <img 
     align="left" 
     alt="Java"
@@ -75,9 +75,9 @@ Braga, Portugal · University of Minho · Computer science · 2nd year
     title="Python"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+    src="https://www.vhv.rs/dpng/d/608-6083505_logo-linux-png-linux-logo-evolution-transparent-png.png" 
 />
-</p>
+</div>
 
 <br/>
 <br/>
