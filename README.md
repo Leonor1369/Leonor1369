@@ -3,18 +3,18 @@
 Olá Chamo-me Leonor Silva de Sousa e estou no 2º ano da Licenciatura de Ciências da Computação da Universidade do Minho. 
 
 <p align="left">
-    <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
+    <a href="https://github.com/Leonor1369?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Larissakich?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+            src="https://custom-icon-badges.demolab.com/github/stars/Leonor1369?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
-    <a href="https://github.com/Larissakich?tab=followers">
+    <a href="https://github.com/Leonor1369?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Larissakich?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/github/followers/Leonor1369?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
 </p>
@@ -22,6 +22,33 @@ Olá Chamo-me Leonor Silva de Sousa e estou no 2º ano da Licenciatura de Ciênc
 ---
 
 ### 🤖 Linguagens e Tecnologias
+
+
+<img 
+    align="left" 
+    alt="Java"
+    title="Java" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://education.oracle.com/file/general/p-80-java.png" 
+/>
+
+<img 
+    align="left" 
+    alt="Haskell"
+    title="Haskell" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://avatars.githubusercontent.com/u/450574?s=200&v=4" 
+/>
+<img 
+    align="left" 
+    alt="C"
+    title="C" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/960px-C_Programming_Language.svg.png?_=20201031132917" 
+/>
 
 <!-- 
 <img 
@@ -67,6 +94,7 @@ Olá Chamo-me Leonor Silva de Sousa e estou no 2º ano da Licenciatura de Ciênc
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
 />
 -->
+<!--
 <img 
     align="left" 
     alt="Next.js" 
@@ -75,7 +103,7 @@ Olá Chamo-me Leonor Silva de Sousa e estou no 2º ano da Licenciatura de Ciênc
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
 />
-<!--
+
 <img 
     align="left" 
     alt="Bootstrap"
@@ -153,14 +181,14 @@ Olá Chamo-me Leonor Silva de Sousa e estou no 2º ano da Licenciatura de Ciênc
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Larissakich&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=Leonor1369&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leonor1369&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
 </p>
