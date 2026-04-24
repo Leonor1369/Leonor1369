@@ -30,7 +30,7 @@ Olá Chamo-me Leonor Silva de Sousa e estou no 2º ano da Licenciatura de Ciênc
     title="Java" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://education.oracle.com/file/general/p-80-java.png" 
+    src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" 
 />
 
 <img 
