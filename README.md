@@ -75,7 +75,7 @@ Braga, Portugal · University of Minho · Computer science · 2nd year
     title="Python"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://www.vhv.rs/dpng/d/608-6083505_logo-linux-png-linux-logo-evolution-transparent-png.png" 
+    src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1280px-Python-logo-notext.svg.png" 
 />
 </div>
 
