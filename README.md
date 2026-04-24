@@ -10,12 +10,12 @@
 
 <div align="center">
 
-<img alt="Java" title="Java" width="30px" style="padding-right: 10px;" src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" />
-<img alt="Haskell" title="Haskell" width="30px" style="padding-right: 10px;" src="https://avatars.githubusercontent.com/u/450574?s=200&v=4" />
-<img alt="C" title="C" width="30px" style="padding-right: 10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/960px-C_Programming_Language.svg.png" />
-<img alt="Linux" title="Linux" width="30px" style="padding-right: 10px;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjKdY2d8AvXahLki5moXOXUwakiC5pkF7H6Q&s" />
-<img alt="Git" title="Git" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-<img alt="Python" title="Python" width="30px" style="padding-right: 10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1280px-Python-logo-notext.svg.png" />
+<img alt="Java" title="Java" width="30px" style="padding-right: 20px;" src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" />
+<img alt="Haskell" title="Haskell" width="30px" style="padding-right: 20px;" src="https://avatars.githubusercontent.com/u/450574?s=200&v=4" />
+<img alt="C" title="C" width="30px" style="padding-right: 20px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/960px-C_Programming_Language.svg.png" />
+<img alt="Linux" title="Linux" width="30px" style="padding-right: 20px;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjKdY2d8AvXahLki5moXOXUwakiC5pkF7H6Q&s" />
+<img alt="Git" title="Git" width="30px" style="padding-right: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+<img alt="Python" title="Python" width="30px" style="padding-right: 20px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1280px-Python-logo-notext.svg.png" />
 
 </div>
 
