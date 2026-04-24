@@ -1,7 +1,7 @@
 # 👩🏻‍💻 Leonor Sousa
 
-Olá Chamo-me Leonor Silva de Sousa e estou no 2º ano da Licenciatura de Ciências da Computação da Universidade do Minho. 
-
+Braga, Portugal · University of Minho · 2nd year
+---
 <p align="left">
     <a href="https://github.com/Leonor1369?tab=repositories&sort=stargazers">
         <img 
