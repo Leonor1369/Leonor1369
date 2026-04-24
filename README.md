@@ -59,7 +59,7 @@ Braga, Portugal · University of Minho · Computer science · 2nd year
     title="Linux" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAx6camOf_G96Zcs2Zj34Yjmy0ysPd-p0oJQ&s" 
+    src="https://icon2.cleanpng.com/20180810/ihz/c806655c445325bd3247422da81e35de.webp" 
 />
 <img 
     align="left" 
