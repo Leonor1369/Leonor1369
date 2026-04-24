@@ -1,6 +1,7 @@
-# 👩🏻‍💻 Leonor Sousa
-
+<h1 align="center"># 👩🏻‍💻 Leonor Sousa
+<p align="center">
 Braga, Portugal · University of Minho · 2nd year
+</p>
 ---
 <p align="left">
     <a href="https://github.com/Leonor1369?tab=repositories&sort=stargazers">
