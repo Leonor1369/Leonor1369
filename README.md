@@ -1,6 +1,6 @@
-<h1 align="center"># 👩🏻‍💻 Leonor Sousa </h1>
+<h1 align="center"> 👩🏻‍💻 Leonor Sousa </h1>
 <p align="center">
-Braga, Portugal · University of Minho · 2nd year
+Braga, Portugal · University of Minho · Computer science · 2nd year
 </p>
 
 
