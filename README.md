@@ -22,7 +22,7 @@
 <br/><br/>
 
 ---
-
+<!--
 <h2 align="center"> 📊 Estatísticas </h2>
 
 <div align="center">
@@ -40,3 +40,4 @@
 />
 
 </div>
+--->
